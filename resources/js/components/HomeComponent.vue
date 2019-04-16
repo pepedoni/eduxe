@@ -13,7 +13,7 @@
                     <a href="https://1drv.ms/b/s!AqA9dfx4VWHUgdl-7NQhOBNx1myaxA" target="_blank">Especificação</a>
                 </p>
                 <p class="card-text">
-                    <a href="https://github.com/pepedoni/desafioEduxe" target="_blank">Repositório no Github</a>
+                    <a href="https://github.com/pepedoni/eduxe" target="_blank">Repositório no Github</a>
                 </p>
                 <router-link :to="{ name: 'empresa' }" class="btn btn-primary">Ir para o Desafio</router-link>
             </div>

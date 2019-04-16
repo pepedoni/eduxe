@@ -8,7 +8,9 @@ npm install
 
 composer install
 
-## Banco
+## Banco ( mysql )
+
+Criar uma base com o nome: desafioeduxe
 
 php artisan migrate
 
