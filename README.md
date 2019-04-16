@@ -16,7 +16,7 @@ php artisan migrate
 
 php artisan serve 
 
-## Acessa aplicação sem cors (Possibilita consulta a api's)
+## Acessar aplicação sem cors (Possibilita consulta a api's)
 
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="c:/chromedev"
 Acessar o link http://127.0.0.1:8000
