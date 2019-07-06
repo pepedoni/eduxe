@@ -9,7 +9,7 @@ composer install
 
 ## Banco ( mysql )
 
-Criar uma base com o nome: desafioeduxe
+Criar uma base com o nome: crudEmpresa
 
 php artisan migrate
 
